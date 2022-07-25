@@ -1,6 +1,7 @@
 ---
 title: "Example Analysis"
 author: "Jonathan A. Pedroza, PhD"
+output_dir: "docs"
 date: "7/25/2022"
 output: 
   html_document:
